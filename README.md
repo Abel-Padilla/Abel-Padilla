@@ -10,17 +10,11 @@ I build backend services, REST APIs, integrations, and web applications for ente
 - 🧠 Currently exploring scalable application architecture and AI development tools
 - 🏃 I enjoy trail running and building with Node.js
 
-### Featured Project
-
-**[Servo Desk](https://github.com/Abel-Padilla/SMQ_fullApp)** — A servomotor repair workflow platform covering quotations, approvals, spare parts, repairs, quality checks, and delivery tracking.
-
-Built with Java EE, Servlets, JSP, JDBC, and MySQL, with separate presentation, business logic, and data access layers.
-
 ### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="36" height="36" alt="Spring Boot" title="Spring Boot"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
